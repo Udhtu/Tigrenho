@@ -1,5 +1,20 @@
 @charset "UTF-8";
 
+
+.containerA {
+    background-color: rgba(0, 30, 58, 0.3);
+    backdrop-filter: blur(2px);
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+p {
+
+    color: white;
+}
+
 .container {
     width: 50vw;   /* Define a largura da div */
     height: 30vb;  /* Define a altura da div */
